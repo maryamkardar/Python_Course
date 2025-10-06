@@ -11,4 +11,5 @@ for ch in string:
             counter += 1
             print("i:", counter)
 
+        
         if ch.lower
