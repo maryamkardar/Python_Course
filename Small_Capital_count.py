@@ -39,3 +39,4 @@ print("Vowel: ", Vowel(string))
 print("Digit: ", Digit(string))
 
 
+
