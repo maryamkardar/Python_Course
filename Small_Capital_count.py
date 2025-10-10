@@ -38,3 +38,4 @@ print("Capital: ", Capital(string))
 print("Vowel: ", Vowel(string))
 print("Digit: ", Digit(string))
 
+
